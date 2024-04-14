@@ -30,7 +30,7 @@ Abstract Link : https://drive.google.com/file/d/1ZfvLZUEt5E4CU1qNsHMM44MUlVuca9v
 ## DeployedLink
 <li>https://ecommerce-front-end-puce.vercel.app/</li>
 
-##Result
+## Result
 ### (Home Page) 
 <img width="1050" alt="image" src="https://github.com/sonu9967/Mern-Stack-IIDT-Project/assets/86905668/0f4c303a-68d9-4a10-a495-26b8edd858aa">
 ### (Cart Page)
